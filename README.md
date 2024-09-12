@@ -46,7 +46,7 @@ A Python script that generates QR codes from user-provided data and saves them a
 1. **Run the Python script:**
 
    ```bash
-   python qr_code_generator.py
+   python qrCodeGenerator.py
    ```
 
 2. **Follow the prompts:**
